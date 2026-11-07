@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/miles-olmo-core/commit/1be18d634c14753551961f1d44bd9065ba5b4c9a",
       "git:hexsha": "1be18d634c14753551961f1d44bd9065ba5b4c9a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/allenai/miles-olmo-core/commit/9ea6759fd872e78516decc45a684183f77918e14",
