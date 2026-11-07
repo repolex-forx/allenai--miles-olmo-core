@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "miles-olmo-core",
+  "versions": [
+    {
+      "commit": "1be18d634c14753551961f1d44bd9065ba5b4c9a",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:52:33.820667+00:00"
+    }
+  ]
+}
